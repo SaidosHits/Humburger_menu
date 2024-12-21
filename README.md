@@ -17,7 +17,7 @@ This project features a responsive navigation menu designed for both large and s
 
 Below is a preview of the navigation menu:
 
-![Preview of the Navigation Menu](./preview.png)
+![Preview of the Navigation Menu](./Active.png)
 
 ## Usage
 
